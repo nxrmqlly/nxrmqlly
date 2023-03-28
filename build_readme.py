@@ -1,13 +1,13 @@
 import re
 import pathlib
-from datetime import date
+from datetime import date, datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 readme_file = root / "README.md"
 
 
 def calculate_age(born):
-    today = date.today()
+    today = datetime.today()
     return today.year - born.year - ((today.month, today.day) < (born.month, born.day))
 
 
