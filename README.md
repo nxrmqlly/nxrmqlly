@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://some-random-api.ml/canvas/misc/circle?avatar=https://avatars.githubusercontent.com/u/86097735" width="100"/>
+  <img src="avatars.githubusercontent.com/u/86097735" width="100"/>
 </div>
 
 <div id="main-head" align="center">
