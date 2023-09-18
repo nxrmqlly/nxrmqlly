@@ -29,7 +29,7 @@
 
 
 - 🚀 I love exploring new technologies and computer systems
-- 🌱 Currently learning Web Development
+- 🌱 Currently learning Data Analyics 
 - ✍️ I like to write and read in my free time
 - 🎵 Music is life, music is love
 - 🎮 Occasional Gamer
@@ -54,7 +54,6 @@
     <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/discord.py-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
