@@ -31,16 +31,6 @@
 - 👥 Reach out to me - _nxrmqlly#6917_ on discord via [my server](https://discord.gg/SgKsMnC3pv)<br>&nbsp;&nbsp;➜ Or email: [ritam.das3110@outlook.com](mailto:ritam.das3110@outlook.com)
 
 
-<div id="stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrmqlly&layout=compact&theme=dark">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=nxrmqlly&hide=contribs,prs&theme=dark&show_icons=true">
-</div>
-
-
-
-
-
 ### ✔️ **Skills**
 
 <div id="skills">
