@@ -1,5 +1,5 @@
 <div id="main-head" align="center">
-    <h1>Hello, hello, I'm nxrmqlly!</h1>_https://nxrmqlly.is-a.dev_
+    <h1>Hello, hello, I'm nxrmqlly!</h1>
     
 </div>
 
@@ -22,7 +22,7 @@
 ## 👋 **Welcome to my page!** 
 > I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India.
 
-
+- 🌏 Website [Here](https://nxrmqlly.is-a.dev)
 - 🚀 I love exploring new technologies and computer systems
 - 🌱 Currently learning Data Analyics 
 - ✍️ I like to write and read in my free time
