@@ -1,5 +1,6 @@
 <div id="main-head" align="center">
-    <h1>Hello, hello, I'm nxrmqlly!</h1>
+    <h1>Hello, hello, I'm nxrmqlly!</h1><br>
+    _https://nxrmqlly.is-a.dev_
 </div>
 
 
@@ -18,7 +19,7 @@
 
 
 
-### 👋 **Welcome to my page!** 
+## 👋 **Welcome to my page!** 
 > I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India.
 
 
@@ -28,7 +29,7 @@
 - 🎵 Music is life, music is love
 - 🎮 Occasional Gamer
 - 💭 Working on [Orbyt](https://github.com/nxrmqlly/orbyt)
-- 👥 Reach out to me - _nxrmqlly#6917_ on discord via [my server](https://discord.gg/SgKsMnC3pv)<br>&nbsp;&nbsp;➜ Or email: [ritam.das3110@outlook.com](mailto:ritam.das3110@outlook.com)
+- 👥 Reach out to me - _@nxrmqlly_ on discord via [my server](https://discord.gg/SgKsMnC3pv)<br>&nbsp;&nbsp;➜ Or email: [ritam.das3110@outlook.com](mailto:ritam.das3110@outlook.com)
 
 
 ### ✔️ **Skills**
@@ -60,7 +61,3 @@
     <img src="https://img.shields.io/badge/Spotify-191414.svg?style=for-the-badge&logo=spotify&logoColor=1DB954">
     <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-<br>
-
-![Snake GIF](https://raw.githubusercontent.com/nxrmqlly/nxrmqlly/main/commits.svg)
