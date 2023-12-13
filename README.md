@@ -1,6 +1,6 @@
 <div id="main-head" align="center">
-    <h1>Hello, hello, I'm nxrmqlly!</h1><br>
-    _https://nxrmqlly.is-a.dev_
+    <h1>Hello, hello, I'm nxrmqlly!</h1>_https://nxrmqlly.is-a.dev_
+    
 </div>
 
 
