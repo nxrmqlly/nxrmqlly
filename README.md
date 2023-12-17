@@ -20,13 +20,11 @@
 
 
 ## 👋 **Welcome to my page!** 
-> I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India.
+> I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
 
 - 🌏 Website [Here](https://nxrmqlly.is-a.dev)
-- 🚀 I love exploring new technologies and computer systems
-- 🌱 Currently learning Data Analyics 
+- 🦀 Currently learning Rust 
 - ✍️ I like to write and read in my free time
-- 🎵 Music is life, music is love
 - 🎮 Occasional Gamer
 - 💭 Working on [Orbyt](https://github.com/nxrmqlly/orbyt)
 - 👥 Reach out to me - _@nxrmqlly_ on discord via [my server](https://discord.gg/SgKsMnC3pv)<br>&nbsp;&nbsp;➜ Or email: [ritam.das3110@outlook.com](mailto:ritam.das3110@outlook.com)
