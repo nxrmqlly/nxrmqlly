@@ -51,7 +51,7 @@
 
 ### ☕ **Things I use**
 <div id="i-use"> 
-    <img src="https://img.shields.io/badge/Windows%2010-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows%2011-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
