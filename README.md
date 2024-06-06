@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://twitter.com/Nxrmqlly">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/X / Twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </div>
 
