@@ -20,7 +20,7 @@
 
 
 ## 👋 **Welcome to my page!** 
-> I'm *Ritam Das*; a <!-- age starts -->1858<!-- age ends --> y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
+> I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
 
 - 🌏 https://nxrmqlly.is-a.dev
 - 🦀 Currently learning Rust
