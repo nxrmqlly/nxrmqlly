@@ -20,7 +20,7 @@
 
 
 ## 👋 **Welcome to my page!** 
-> I'm *Ritam Das*; a <!-- age starts -->14<!-- age ends --> y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
+> I'm *Ritam Das*; a <!-- age starts -->1858<!-- age ends --> y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
 
 - 🌏 https://nxrmqlly.is-a.dev
 - 🦀 Currently learning Rust
@@ -52,3 +52,5 @@
   ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<img src=https://raw.githubusercontent.com/nxrmqlly/nxrmqlly/main/commits.svg>
