@@ -2,8 +2,7 @@ import re
 import pathlib
 from datetime import date, datetime
 
-root = pathlib.Path(__file__).parent.resolve()
-readme_file = root / "README.md"
+readme_file = pathlib.Path("./README.md")
 
 
 def calculate_age(born):
