@@ -44,13 +44,5 @@
   ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
-<br>
-
-### ☕ **Daily life**
-
-  ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <img src=https://raw.githubusercontent.com/nxrmqlly/nxrmqlly/main/commits.svg>
