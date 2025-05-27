@@ -22,7 +22,7 @@
 ## 👋 **Welcome to my page!** 
 > I'm *Ritam Das*; a 15 y/o, passionate developer from India. I love exploring new technologies and computer systems 🚀
 
-- 🌏 https://nxrmqlly.is-a.dev
+- 🌏 https://ritam.pw
 - 🌊 Currently learning Go
 - 💭 Working on [MRPackDownloader](https://github.com/nxrmqlly/MRPackDownloader)
 - 👥 Reach out to me [ritam.das3110@outlook.com](mailto:ritam.das3110@outlook.com)
